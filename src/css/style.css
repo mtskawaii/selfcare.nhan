@@ -1,0 +1,243 @@
+    .list {
+        position: absolute;
+        list-style: none;
+        display: flex;
+        left: 85%;
+        top: 1%;
+    }
+    
+    .list li {
+        padding: 15px;
+        margin-top: 5%;
+        color: hsl(238, 22%, 44%);
+    }
+    
+    .self {
+        position: absolute;
+        font-size: 20pt;
+        font-family: 'Poppins', sans-serif;
+        left: 7%;
+        top: 5.2%;
+    }
+    
+    .star {
+        position: absolute;
+        width: 35px;
+        left: 4%;
+        top: 5.5%;
+    }
+    
+    .banner {
+        position: absolute;
+        top: 15%;
+        height: 55%;
+        width: 100%;
+    }
+    
+    .fim {
+        position: absolute;
+        width: 1300px;
+        height: 1px;
+        background-color: gray;
+        top: 80%;
+        left: 2%;
+    }
+    
+    .promo {
+        position: absolute;
+        font-family: 'Poppins', sans-serif;
+        font-size: 15pt;
+        top: 74%;
+        left: 5%;
+    }
+    
+    .produto {
+        position: absolute;
+        font-family: 'Poppins', sans-serif;
+        font-size: 15pt;
+        top: 74%;
+        left: 86%;
+    }
+    
+    span {
+        color: green;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16pt;
+    }
+    
+    .pro img {
+        width: 300px;
+        height: 300px;
+    }
+    
+    .pro {
+        position: absolute;
+        display: flex;
+        list-style: none;
+        top: 86%;
+        left: 5%;
+    }
+    
+    .pro li {
+        margin: 50px;
+    }
+    
+    .pro2 img {
+        width: 300px;
+        height: 300px;
+    }
+    
+    .pro2 {
+        position: absolute;
+        display: flex;
+        list-style: none;
+        top: 160%;
+        left: 5%;
+    }
+    
+    .pro2 li {
+        margin: 50px;
+    }
+    
+    .pro3 img {
+        width: 300px;
+        height: 300px;
+    }
+    
+    .pro3 {
+        position: absolute;
+        display: flex;
+        list-style: none;
+        top: 233%;
+        left: 5%;
+    }
+    
+    .pro3 li {
+        margin: 50px;
+    }
+    
+    li img:hover {
+        transition: 0.5s;
+        transform: scale(1.2);
+    }
+    
+    .fim3 {
+        position: absolute;
+        width: 1300px;
+        height: 1px;
+        background-color: gray;
+        top: 0%;
+        left: 2%;
+    }
+    
+    footer {
+        position: absolute;
+        width: 100%;
+        height: 50%;
+        top: 330%;
+        border-color: gray;
+        background-color: #F9F9F9;
+    }
+    
+    footer p {
+        position: relative;
+        top: 8%;
+        left: 4%;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    footer input {
+        position: absolute;
+        top: 20%;
+        left: 68%;
+        width: 15%;
+        height: 10%;
+        border: none;
+        border-radius: 5pt;
+    }
+    
+    .new {
+        position: absolute;
+        font-family: 'Poppins', sans-serif;
+        left: 67%;
+        font-size: 1.2em;
+    }
+    
+    footer button {
+        position: absolute;
+        height: 12%;
+        width: 10%;
+        left: 85%;
+        top: 19%;
+        background-color: green;
+        border: none;
+        border-radius: 5pt;
+        color: white;
+    }
+    
+    button:hover {
+        transition: 0.6s;
+        background-color: white;
+        color: green;
+    }
+    
+    .fim2 {
+        position: absolute;
+        width: 1300px;
+        height: 1px;
+        background-color: gray;
+        top: 50%;
+        left: 2%;
+    }
+    
+    .face {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 8%;
+        top: 60%;
+    }
+    
+    .insta {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 3%;
+        top: 60%;
+    }
+    
+    .master {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 80%;
+        top: 60%;
+    }
+    
+    .pay {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 85%;
+        top: 60%;
+    }
+    
+    .visa {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 90%;
+        top: 60%;
+    }
+    
+    footer img:hover {
+        transition: 0.5s;
+        transform: scale(1.2);
+    }
+    
+    .copy {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        position: absolute;
+        left: 40%;
+        top: 90%;
+    }
